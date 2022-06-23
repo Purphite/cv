@@ -1,0 +1,20 @@
+  body {
+    background-color: #BEAEE2;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    color: grey;
+    width: 5%;
+  }
+  h3 {
+    color: #66BFBF;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  h1 {
+    color: #66BFBF;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow:2px 2px 5px #A85CF9;
+
+  }
